@@ -45,4 +45,4 @@ dotnet add src/tests/FBusiness.Tests/FBusiness.Tests.csproj
 
 
 ## Folders Structure
-![Alt text](/docs/treee.png "tree Image")
+![Alt text](/docs/tree.png "tree Image")
